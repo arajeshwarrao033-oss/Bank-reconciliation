@@ -1,0 +1,6 @@
+{
+  "name": "AI Bank Reconciliation Assistant",
+  "description": "Automated U.S. GAAP bank reconciliation platform with deterministic & AI matching, multi-entity support, exception management, and audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
